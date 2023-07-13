@@ -1,2 +1,2 @@
 # CS 61A
- 2022
+Structure and Interpretation of Computer Programs - 2022
